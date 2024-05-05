@@ -1,0 +1,25 @@
+.table-container {
+    /* display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center; */
+    min-height: 100vh;
+
+}
+
+.user-table {
+    font-size: 15px;
+    border-collapse: collapse;
+    margin: 0 auto
+
+}
+
+.user-table th {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+.user-table td {
+    border: 1px solid black;
+    padding: 10px;
+}

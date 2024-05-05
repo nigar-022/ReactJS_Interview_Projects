@@ -1,0 +1,41 @@
+/* .app{
+    text-align: center;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+    border-bottom: 1px solid black;
+
+}
+input {
+    margin-bottom: 10px;
+}
+
+.close {
+    cursor: pointer;
+    opacity: 0;
+    transition: all 0.2s ease;
+}
+
+.item:hover .close {
+    opacity: 1;
+}
+
+.circle {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 1px solid black;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.strike {
+    text-decoration: line-through;
+} */

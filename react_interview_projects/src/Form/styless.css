@@ -1,0 +1,13 @@
+input, select {
+    border: 1px solid black;
+    margin-top: 10px
+}
+label {
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+input[type="submit"] {
+   padding: 5px;
+border-radius: 5px;
+}

@@ -1,0 +1,39 @@
+/* * {
+    margin: 0;
+    padding: 0;
+}
+.app {
+    font-size: 20px;
+}
+
+h2 {
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.card {
+    width: 200px;
+    height: 100px;
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+
+}
+.card-inner {
+    font-size: 20px;
+    font-style: italic;
+}
+
+.wrapper {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+button {
+    border: 1px solid black;
+    margin-top: 10px;
+
+} */

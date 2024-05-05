@@ -1,0 +1,11 @@
+.App {
+    text-align: center;
+}
+
+.active {
+    color: yellow;
+}
+
+.inactive {
+    color: #000;
+}

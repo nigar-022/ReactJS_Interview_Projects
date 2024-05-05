@@ -1,0 +1,32 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.label-container {
+    font-size: 30px;
+    font-weight: bold;
+    background-color: brown;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.content {
+    color: darkmagenta;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.label-container.active {
+    background-color: green;
+}
